@@ -368,6 +368,7 @@ SENSOR_DATA = {
         "subject": [
             "InPost - Potwierdzenie odbioru",
             "InPost - Paczka umieszczona w Paczkomacie",
+            "Twój Paczkomat: Paczka już na Ciebie czeka",
         ],
     },
     "inpost_pl_delivering": {
@@ -379,6 +380,7 @@ SENSOR_DATA = {
         "subject": [
             "Kurier InPost: Twoja paczka jest w drodze",
             "prawie u Ciebie",
+            "InPost - Potwierdzenie nadania przesyłki",
         ],
     },
     "inpost_pl_packages": {},
